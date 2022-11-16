@@ -1,0 +1,9 @@
+[user]
+	name = TomasChiari
+	email = tomaschiari01@gmail.com
+[credential]
+	helper = cache --timeout 43200
+[init]
+        defaultBranch = main 
+[core]
+	autocrlf = input
